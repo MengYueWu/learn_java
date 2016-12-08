@@ -15,6 +15,8 @@ public class AutoInc {
         prt("i="+i);
         prt("i--:"+ i--);
 
+
+        /////
     }
 
     static void prt(String s){
