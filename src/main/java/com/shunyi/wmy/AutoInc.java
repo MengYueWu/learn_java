@@ -16,6 +16,7 @@ public class AutoInc {
         prt("i--:"+ i--);
 
     }
+
     static void prt(String s){
         System.out.println(s);
     }
